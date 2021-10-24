@@ -50,6 +50,11 @@
 }
 .logo-color {
   color: var(--accent);
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  text-decoration: none;
 }
 .footer-logo {
   color: #ffffff;
